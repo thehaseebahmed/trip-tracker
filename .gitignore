@@ -1,0 +1,7 @@
+TripTracker/node_modules/
+TripTracker/android/.gradle/
+TripTracker/android/app/build/
+TripTracker/android/build/
+TripTracker/ios/build/
+TripTracker/ios/Pods/
+TripTracker/.bundle/
